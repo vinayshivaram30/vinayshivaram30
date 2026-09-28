@@ -14,7 +14,7 @@ AI Product Manager in Bengaluru. I build agentic AI, LLM platform and RAG produc
 
 ## Background
 
-13 years across CSR and Qualcomm, starting in Wi-Fi and Bluetooth validation and moving into product in 2019 in Qualcomm's Advanced R&D Labs. 8 patents filed. Since then: enterprise AI at Tech Mahindra and 0-to-1 product work on Margawise and ToyLuv.
+13 years across CSR and Qualcomm, starting in Wi-Fi and Bluetooth validation and moving into product in 2019 in Qualcomm's Advanced R&D Labs. 8 patents filed. After Qualcomm: enterprise AI at Tech Mahindra and 0-to-1 product work on Margawise and ToyLuv.
 
 Executive MBA in Product Leadership (Institute of Product Leadership), MTech from BITS Pilani, PG in AI/ML from IIIT Bangalore.
 
