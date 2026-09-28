@@ -12,6 +12,10 @@ AI Product Manager in Bengaluru. I build agentic AI, LLM platform and RAG produc
 - **Snapdragon Wear and XR silicon (2022-2024)**: owned product definition for wearables and extended-reality platforms built for global OEM customers.
 - **RAG-based enterprise Q&A** at Tech Mahindra: better first-answer accuracy, with audit trails and compliance built in.
 
+## Featured project
+
+**[Offerline case study](https://github.com/vinayshivaram30/offerline-case-study)**: an agentic AI job-search system I'm building and running as a product. It covers the north-star metric, the agent architecture, truth guardrails that trace every resume claim to a source, and why I turned off LinkedIn automation that was working.
+
 ## Background
 
 13 years across CSR and Qualcomm, starting in Wi-Fi and Bluetooth validation and moving into product in 2019 in Qualcomm's Advanced R&D Labs. 8 patents filed. After Qualcomm: enterprise AI at Tech Mahindra and 0-to-1 product work on Margawise and ToyLuv.
